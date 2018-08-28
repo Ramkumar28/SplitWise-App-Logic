@@ -1,0 +1,11 @@
+C:\HelloWorld\Expense Sample\bin\Debug\netcoreapp2.1\Expense Sample.deps.json
+C:\HelloWorld\Expense Sample\bin\Debug\netcoreapp2.1\Expense Sample.runtimeconfig.json
+C:\HelloWorld\Expense Sample\bin\Debug\netcoreapp2.1\Expense Sample.runtimeconfig.dev.json
+C:\HelloWorld\Expense Sample\bin\Debug\netcoreapp2.1\Expense Sample.dll
+C:\HelloWorld\Expense Sample\bin\Debug\netcoreapp2.1\Expense Sample.pdb
+C:\HelloWorld\Expense Sample\obj\Debug\netcoreapp2.1\Expense Sample.csprojAssemblyReference.cache
+C:\HelloWorld\Expense Sample\obj\Debug\netcoreapp2.1\Expense Sample.csproj.CoreCompileInputs.cache
+C:\HelloWorld\Expense Sample\obj\Debug\netcoreapp2.1\Expense Sample.AssemblyInfoInputs.cache
+C:\HelloWorld\Expense Sample\obj\Debug\netcoreapp2.1\Expense Sample.AssemblyInfo.cs
+C:\HelloWorld\Expense Sample\obj\Debug\netcoreapp2.1\Expense Sample.dll
+C:\HelloWorld\Expense Sample\obj\Debug\netcoreapp2.1\Expense Sample.pdb
